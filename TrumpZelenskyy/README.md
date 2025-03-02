@@ -1,3 +1,6 @@
+![T_Z](T_Z.png)
+
+
 ### Created with [WordUp](https://github.com/NoDataFound/WordUp)
 
 #### Word Count Breakdown
@@ -18,7 +21,8 @@
 - [Zelensky-Only Transcript](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Source_Text/Zelenskyy_Only.txt)  
 - [Raw Transcript](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Source_Text/Full_Transcript_Raw.txt)  
 - [Parsed Transcript with Speaker Names](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Source_Text/Full_Transcript_Parsed.txt)  
-- [YouTube Comments Raw](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Source_Text/YouTube_Comments.txt)  
+- [YouTube Comments Raw](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Source_Text/YouTube_Comments.txt)
+![T_Z](Youtube_Comments.png)  
 
 #### Media
 - **Source Video**: [Full Meeting - Trump, VP Vance, and Zelenskyy](https://www.youtube.com/watch?v=7pxbGjvcdyY)  
