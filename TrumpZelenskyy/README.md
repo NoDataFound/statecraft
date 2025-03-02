@@ -1,3 +1,5 @@
+### Created with https://github.com/NoDataFound/WordUp
+
 - [Trump-only](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Trump_Only.txt) (spoken words): `2,583`
 - [Zelensky-only](https://github.com/NoDataFound/statecraft/blob/main/TrumpZelenskyy/Zelenskyy_Only.txt) (spoken words): `1,353`
 - Other speakers (spoken words): `825` (JD: 215, Marco: 155, Reporters: 455).
